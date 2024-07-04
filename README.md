@@ -4,7 +4,7 @@
 Projeto criado como desafio do bootcamp sobre IA para devs.
 
 ## 🤖 Tecnologias Utilizadas
-Chatgpt
+Chatgpt e
 Canva
 
 ## 🧐 Processo de Criação
